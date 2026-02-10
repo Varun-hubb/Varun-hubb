@@ -80,7 +80,7 @@ Currently focused on becoming a skilled Blue Team professional.
 
 ---
 
-## 📈 Learning Roadmap
+##  Learning Roadmap
 
 Currently Working On:
 
@@ -98,7 +98,7 @@ Next Goals:
 
 ---
 
-## 🧪 Labs & Practice Platforms
+##  Labs & Practice Platforms
 
 - TryHackMe
 - Hack The Box
@@ -108,7 +108,7 @@ Next Goals:
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 📧 Email: your.email@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/yourprofile  
@@ -117,7 +117,7 @@ Next Goals:
 
 ---
 
-## 🚀 Career Objective
+##  Career Objective
 
 Seeking an entry-level SOC Analyst / Blue Team role where I can:
 
@@ -127,10 +127,10 @@ Seeking an entry-level SOC Analyst / Blue Team role where I can:
 - Contribute to threat detection strategies  
 
 ---
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 Top 5% on TryHackMe
-- 🏅 SOC Lab Completion Certificate
-- 🎯 100+ Hands-on Labs Completed
+-  Top 1% on TryHackMe
+-  SOC Lab Completion Certificate
+-  100+ Hands-on Labs Completed
 
 ---
