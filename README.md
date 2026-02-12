@@ -55,11 +55,22 @@ Currently focused on becoming a skilled Blue Team professional.
 ---
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://github.com/Varun-hubb/Varun-hubb/blob/main/Certifications/ECC-CSA-Certificate.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-EC--Council%20CSAv2-2E8B57?&style=for-the-badge&logo=ec-council&logoColor=white" alt="EC-Council CSAv2" />
 </a>
+
+ <a href="https://github.com/Varun-hubb/Varun-hubb/blob/main/Certifications/Soc-Level-1.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-SOC%20Level%201-88CC14?&style=for-the-badge&logo=tryhackme&logoColor=black" alt="SOC Level 1 Certificate" />
+</a>
+
+<a href="https://github.com/Varun-hubb/Varun-hubb/blob/main/Certifications/Cyber-Security-101.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Cyber%20Security%20101-0A66C2?&style=for-the-badge&logo=security&logoColor=white" alt="Cyber Security 101 Certificate" />
+</a>
+
+
+
 </div>
 
 
@@ -67,8 +78,7 @@ Currently focused on becoming a skilled Blue Team professional.
 ---
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Varun-hubb/File-Integrity-Monitoring">File Integrity Monitoring</a>
 
 ---
 
@@ -102,11 +112,9 @@ Next Goals:
 
 ##  Connect With Me
 
-📧 Email: your.email@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🐦 Twitter/X: https://twitter.com/yourhandle  
-🌐 Portfolio: https://yourportfolio.com
-
+- Email: varunkonge@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/varunk13/ 
+- TryHackMe: https://tryhackme.com/p/VarunMaxx
 ---
 
 ##  Career Objective
