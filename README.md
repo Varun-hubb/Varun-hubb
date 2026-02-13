@@ -28,7 +28,7 @@ Currently focused on becoming a skilled Blue Team professional.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Varun-hubb/File-Integrity-Monitoring">File Integrity Monitoring</a>|
-
+| Signature-Based Detection Engineering            | <a href="https://github.com/Varun-hubb/Network-Intrusion-Detection-System">Network Intrusion Detection System</a>|
 ---
 
 ## Tools
